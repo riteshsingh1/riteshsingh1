@@ -1,6 +1,6 @@
 ### Ritesh Singh 👋
 
- 🌱 I’m currently living in New Delhi (India)
+ - 🌱 I’m currently living in New Delhi (India)
 
 - 🔭 I’m currently working on [LARAVEL](https://laravel.com/), [VUE JS](https://vuejs.org/) and [NODE JS](https://nodejs.org/en/)
 
