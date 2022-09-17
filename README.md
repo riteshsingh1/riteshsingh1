@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://1124ritesh.medium.com/](https://1124ritesh.medium.com/)
 
-- 💬 Ask me about **react, vue, laravel, JavaScript**
+- 💬 Ask me about **react, vue, laravel, JavaScript, NODE JS**
 
 - 📫 How to reach me **hello@imritesh.com**
 
